@@ -3,8 +3,8 @@
 Koda Bryant
 
 ## Summary:
-My project is going to be a randomly generated interactive painting that is going to be projected onto a wall or canvas or something similar. The image will be created using a camera on a monitor. The data that it collects will determine how the image turns out. 
-Right now my idea (generally) is to create a grid over the area that the camera sees, and then program rules that relate to certain colors or shapes or movements.
+My project is going to be a randomly generated, interactive painting that is going to be projected onto a wall or a canvas or something similar. The image is going to be created using whatever data the camera detects. That data will determine how the image changes and moves, using things like the colors of the pictured peoples clothes, the placement of them on the camera, and if they are moving to decide what shapes and colors to use.
+Right now my idea (generally) is to create a grid over the area that the camera sees, and then program rules for every section that relate to certain colors or shapes or movements.
 
 
 ## Physical / Parts Components:

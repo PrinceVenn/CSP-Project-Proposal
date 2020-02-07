@@ -11,9 +11,13 @@ Right now my idea (generally) is to create a grid over the area that the camera 
 
 Computer monitor with camera, Projector
 
-## Decontructions/ system diagram: 
+## Decontructions: 
 
-???
+Data: Placement of people, colors of clothing, movement of people
+Render: A randomly generated painting/image
+Simulation: Moving shapes, changing color
+Event: Camera detects person/color/movement, creates random layer of generated image
+
 
 ## What’s going to be hard / uncertain: 
 I have never really worked with video or projections, but I've seen it used a lot. I think it will kind of be like starting from scratch and learning a new thing for me but i'm sure it can be done.
@@ -32,7 +36,7 @@ I have never really worked with video or projections, but I've seen it used a lo
 3/10:???
 3/12:???
 3/17:???
-3/19: My Birthday,
+3/19: My Birthday
 
 
 ## Links and/or Refs

@@ -13,9 +13,12 @@ Computer monitor with camera, Projector
 
 ## Decontructions: 
 
-Data: Placement of people, colors of clothing, movement of people
+Data: Placement of people, colors of clothing, movement of people 
+
 Render: A randomly generated painting/image
+
 Simulation: Moving shapes, changing color
+
 Event: Camera detects person/color/movement, creates random layer of generated image
 
 

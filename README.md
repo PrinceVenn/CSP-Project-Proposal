@@ -1,6 +1,6 @@
 # CP-Project-Proposal
 
-## Koda Bryant
+-Koda Bryant
 
 ## Summary:
 My project is going to be a randomly generated interactive painting that is going to be projected onto a wall or canvas or something similar. The image will be created using a camera on a monitor. The data that it collects will determine how the image turns out. 

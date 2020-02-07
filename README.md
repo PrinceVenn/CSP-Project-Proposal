@@ -1,6 +1,6 @@
 # CP-Project-Proposal
 
--Koda Bryant
+Koda Bryant
 
 ## Summary:
 My project is going to be a randomly generated interactive painting that is going to be projected onto a wall or canvas or something similar. The image will be created using a camera on a monitor. The data that it collects will determine how the image turns out. 
@@ -22,17 +22,22 @@ I have never really worked with video or projections, but I've seen it used a lo
 2/6: Project Proposal Due,
 2/11: Experiment with Video via Processing,
 2/13: Experiment with Video via Processing,
-2/18:
-2/20:
-2/25:
+2/18:???
+2/20:???
+2/25:???
 2/27: Experiment with a Projector,
-3/3:
-3/5:
+3/3:???
+3/5:???
 3/6: Proof of Concept -- exploration & research finished,
-3/10:
-3/12:
-3/17:
+3/10:???
+3/12:???
+3/17:???
 3/19: My Birthday,
+
+
+## Links and/or Refs
+
+https://www.tetoki.eu/vida/static_background_camera.html
 
 
 `
